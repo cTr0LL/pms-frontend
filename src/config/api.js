@@ -1,5 +1,5 @@
 import axios from "axios";
-const LOCALHOST = "pms-backend-production-4dc7.up.railway.app";
+const LOCALHOST = "https://pms-backend-production-4dc7.up.railway.app/";
 
 export const API_BASE_URL = LOCALHOST;
 
